@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-a b c
-=======
-a aaaaaaaaaaaaaaaaaaaaaaaaaa
-
->>>>>>> aaaaaa bbbbbbb test
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
